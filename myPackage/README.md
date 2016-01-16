@@ -1,11 +1,9 @@
-It is very easy to make some words **bold**
-# This is an <h1> tag
-## This is an <h2> tag.
-###### This is an <h6> tag
+math_example package
 
+The following functions are available in the amth_example package.
 
-*This is talic in nature*
-_This is also italic in nature._
-**This is bold in nature**
-__This is also bold in nature.__
-_I can **combine** both styles__in the same sentence___
+* **addition** Adds two numbers and returns the .
+* **subtraction** Subtracts two numbers and returns the result.
+* **multiplication** Multiplies the two numbers.
+* **division** Divides the two numbers.
+* **fobonacci** Calculates the  fibonacci.
