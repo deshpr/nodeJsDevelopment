@@ -1,1 +1,1 @@
-It is very easy to make some words ** bold **
+It is very easy to make some words **bold**
